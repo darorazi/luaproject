@@ -1,0 +1,2 @@
+# luaproject
+Warrior WeakAuras
